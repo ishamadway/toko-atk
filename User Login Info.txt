@@ -1,0 +1,7 @@
+ADMIN
+email: admin@gmail.com
+password: admin
+
+PEMBELI
+email: user@gmail.com
+password: user123
